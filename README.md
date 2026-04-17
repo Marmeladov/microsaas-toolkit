@@ -45,7 +45,7 @@ Need a head start? I offer consulting services to help you build your MVP or int
 - **Custom Implementation:** Tailoring the toolkit to your specific needs.
 - **Cloud Setup:** CI/CD and production-ready infrastructure.
 
-[**Visit the Landing Page**](https://microsaaskit.dev/)) | [**Contact for Consulting**](mailto:jure.hrastnik@gmail.com)
+[**Visit the Landing Page**](https://microsaaskit.dev/) | [**Contact for Consulting**](mailto:jure.hrastnik@gmail.com)
 
 ---
 
